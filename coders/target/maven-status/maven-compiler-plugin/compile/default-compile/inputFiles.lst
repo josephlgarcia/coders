@@ -1,0 +1,10 @@
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/CodersApplication.java
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/domain/Coder.java
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/entity/CoderEntity.java
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/repository/CoderRepository.java
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/service/CoderService.java
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/service/impl/CoderServiceImpl.java
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/web/advice/GlobalExceptionHandler.java
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/web/controller/CoderController.java
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/web/dto/CoderRequest.java
+/home/Coder/Escritorio/coders/src/main/java/com/academia/coders/web/dto/CoderResponse.java
